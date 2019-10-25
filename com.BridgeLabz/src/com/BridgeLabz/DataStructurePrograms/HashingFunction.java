@@ -17,7 +17,7 @@ public class HashingFunction {
 
 		String path = "/home/user/eclipse-workspace/com.BridgeLabz/src/com/BridgeLabz/DataStructurePrograms/number.txt";
 		String[] content_of_file = Util.readFile(path);
-		System.out.println(content_of_file[0].length());
+			
 
 		for (int j = 0; j < content_of_file.length; j++) {
 			( writefile).addToHashTable(table, Integer.parseInt(content_of_file[j]));
@@ -49,7 +49,6 @@ public class HashingFunction {
 			}
 		}
 		System.out.println();
-		writefile.display();
 		writefile.writeIntoFile(path);
 		 
 

@@ -1,0 +1,7 @@
+{
+  "rice 1":{"name":"Basmati","weight":15,"pricePerKg":70},
+  "rice 2":{"name":"DelhiRice","weight":5,"pricePerKg":30},
+  "rice 3":{"name":"Indrayani","weight":10,"pricePerKg":50},
+  "wheat 1":{"name":"WheatOftype1","weight":10,"pricePerKg":50},
+  "wheat 2":{"name":"WheatOfType2","weight":10,"pricePerKg":50}
+}
