@@ -1,0 +1,22 @@
+{
+  "Sourabh": {
+    "name": "Sourabh Magdum",
+    "Amount": 10000,
+    "Company": {}
+  },
+  "Aniket": {
+    "name": "Aniket Deshpande",
+    "Amount": 20000,
+    "Company": {}
+  },
+  "Aditya": {
+    "name": "Aditya Thorat",
+    "Amount": 30000,
+    "Company": {}
+  },
+  "Pandit": {
+    "name": "Pandit Walde",
+    "Amount": 40000,
+    "Company": {}
+  }
+}
