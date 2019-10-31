@@ -1,0 +1,6 @@
+package com.bridgeLabz.clinique.service;
+
+public class DoctorData  {
+	public void addDoctor()
+	
+}

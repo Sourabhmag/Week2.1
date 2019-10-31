@@ -1,0 +1,37 @@
+package com.bridgeLabz.clinique.model;
+
+public class Doctor {
+private String name;
+private int id;
+private String specilization;
+private Boolean avaliability;
+public String getName() {
+	return name;
+}
+public void setName(String name) {
+	this.name = name;
+}
+public int getId() {
+	return id;
+}
+public void setId(int id) {
+	this.id = id;
+}
+public String getSpecilization() {
+	return specilization;
+}
+public void setSpecilization(String specilization) {
+	this.specilization = specilization;
+}
+public Boolean getAvaliability() {
+	return avaliability;
+}
+public void setAvaliability(Boolean avaliability) {
+	this.avaliability = avaliability;
+}
+@Override
+public String toString() {
+	return "name=" + name + "\nid=" + id + ", specilization=" + specilization + ", avaliability=" + avaliability
+			+ "]";
+}
+}

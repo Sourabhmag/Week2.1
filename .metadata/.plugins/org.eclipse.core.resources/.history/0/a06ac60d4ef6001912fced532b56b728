@@ -1,0 +1,10 @@
+package com.BridgeLabz.ObjectOrientedPrograms;
+
+public class InventoryManagementProgram {
+
+	public static void main(String[] args) {
+		static String path = "/home/user/eclipse-workspace/com.BridgeLabz.OOP/src/main/java/com/BridgeLabz/ObjectOrientedPrograms/InventoryDataManagement.json";
+
+	}
+
+}

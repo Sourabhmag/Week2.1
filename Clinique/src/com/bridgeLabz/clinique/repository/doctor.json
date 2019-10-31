@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Sourabh",
+    "id": 10000,
+    "specilization": "Cardiologist",
+    "avaliability": "true"
+  },
+  {
+    "name": "Aditya",
+    "id": 20000,
+    "specilization": "Ortho",
+    "avaliability": "true"
+  },
+  {
+    "name": "Pandit",
+    "id": 30000,
+    "specilization": "Dermatologist",
+    "avaliability": "true"
+  },
+  {
+    "name": "Pooja",
+    "id": 40000,
+    "specilization": "Gyni",
+    "avaliability": "true"
+  }
+]

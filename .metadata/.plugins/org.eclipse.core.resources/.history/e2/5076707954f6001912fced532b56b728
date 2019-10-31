@@ -1,0 +1,25 @@
+package com.BridgeLabz.ObjectOrientedPrograms;
+
+public class Inventory {
+	private String name;
+	private int weight;
+	private int pricePerKg;
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public int getWeight() {
+		return weight;
+	}
+	public void setWeight(int weight) {
+		weight = weight;
+	}
+	public int getPricePerKg() {
+		return pricePerKg;
+	}
+	public void setPricePerKg(int pricePerKg) {
+		pricePerKg = pricePerKg;
+	}
+}

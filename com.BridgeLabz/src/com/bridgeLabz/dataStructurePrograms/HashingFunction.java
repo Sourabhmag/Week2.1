@@ -15,7 +15,7 @@ public class HashingFunction {
 		Utility<?> table[] = new Utility[size];
 		Utility<?> writefile = new Utility<>();
 
-		String path = "/home/user/eclipse-workspace/com.BridgeLabz/src/com/BridgeLabz/DataStructurePrograms/number.txt";
+		String path = "/home/user/eclipse-workspace/com.BridgeLabz/bin/com/bridgeLabz/dataStructurePrograms/number.txt";
 		String[] content_of_file = Util.readFile(path);
 			
 

@@ -1,0 +1,18 @@
+package com.bridgeLabz.clinique.controller;
+
+import com.bridgeLabz.clinique.utility.Util;
+
+public class Clinique {
+
+	public static void main(String[] args) {
+		System.out.println("1)Add Doctor\n2)Add Patient\n3)Search Doctor by Name\n4)Search Doctor by id\n"
+				+ "5)Delete Doctor\n6)Search Patient by Name\n7)Search Patient by id\n8)Delete Patient");
+		
+		int choice = Util.readInt();
+		switch(choice)
+		{
+		case 1:
+		}
+	}
+
+}

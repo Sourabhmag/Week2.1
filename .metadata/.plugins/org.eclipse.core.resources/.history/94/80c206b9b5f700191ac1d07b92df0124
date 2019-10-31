@@ -1,0 +1,31 @@
+package com.bridgeLabz.dataStructurePrograms;
+
+import com.BridgeLabz.utility.Util;
+
+/**
+ * @author Sourabh Magdum
+ * @Purpose - To check whether entered string is palindrome or not
+ *  Date - 18/10/2019
+ */
+public class PalindromeChecker {
+
+	public static void main(String[] args) {
+		System.out.println("Enter string");
+		String palindrome = Util.readString();
+		int size_of_input = palindrome.length();
+		for (int i = 0; i < size_of_input; i++) {
+			Util.enQueue(palindrome.charAt(i));
+		}
+		while (size_of_input != 0) {
+			--size_of_input;
+			if (palindrome.charAt(size_of_input) == (char)(Util.deQueue())) {
+				continue;
+			} else {
+				System.out.println("Not a Palindrome");
+				return;
+			}
+
+		}
+		System.out.println(" a Palindrome");
+	}
+}

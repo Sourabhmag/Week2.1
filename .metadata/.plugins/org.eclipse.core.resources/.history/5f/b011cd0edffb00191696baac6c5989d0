@@ -1,0 +1,70 @@
+package com.bridgeLabz.clinique.service;
+
+import java.util.List;
+import java.util.stream.Collector;
+import java.util.stream.Collectors;
+
+import com.bridgeLabz.clinique.model.*;
+import com.bridgeLabz.clinique.utility.Util;
+
+public class DoctorData {
+	public void add() {
+		String path = "";
+		List<Doctor> list_of_doctors = Util.readDoctor(path);
+		Doctor addDoctor = new Doctor();
+		System.out.println("Enter name of Doctor");
+		addDoctor.setName(Util.readString());
+		System.out.println("Enter id of doctor");
+		addDoctor.setId(Util.readInt());
+		System.out.println("Enter Specilization of doctor");
+		addDoctor.setSpecilization(Util.readString());
+		System.out.println("Enter avaliability");
+		addDoctor.setAvaliability(Util.readBoolean());
+		list_of_doctors.add(addDoctor);
+		Util.writeDoctor(path, list_of_doctors);
+	}
+
+	public void delete(String doctorName) {
+		String path = "";
+		boolean flag = false;
+		List<Doctor> list_of_doctors = Util.readDoctor(path);
+		for (Doctor i : list_of_doctors) {
+			if (doctorName.equals(i.getName())) {
+				flag = true;
+				list_of_doctors.remove(i);
+				Util.writeDoctor(path, list_of_doctors);
+				System.out.println("Doctor removed successfully");
+				return;
+			}
+		}
+		if (flag == false) {
+			System.out.println("Doctor is not present in list");
+		}
+	}
+
+	public static void searchByName(String doctorName) {
+		String path = "/home/user/eclipse-workspace/Clinique/src/com/bridgeLabz/clinique/repository/doctor.json";
+		boolean flag = false;
+		List<Doctor> list_of_doctors = Util.readDoctor(path);
+		List<Doctor> list = list_of_doctors.stream().filter(i -> i.getName().equals(doctorName))
+				.collect(Collectors.toList());
+		System.out.println(list.get(0));
+		if (list.get(1).toString().equals(doctorName))
+			System.out.println("Doctor found");
+		else
+			System.out.println("Not found");
+		/*
+		 * for(Doctor i : list) {
+		 * 
+		 * 
+		 * if(doctorName.equals(i.getName())) { flag=true;
+		 * System.out.println("Entered doctor name is present in list"); }
+		 * 
+		 * } if(flag==false) { System.out.println("Doctor is not present in list"); }
+		 */
+	}
+	public static void main(String[] args) {
+		searchByName("Sourabh");
+	}
+
+}

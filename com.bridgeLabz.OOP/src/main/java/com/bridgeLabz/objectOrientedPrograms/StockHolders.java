@@ -2,25 +2,33 @@ package com.bridgeLabz.objectOrientedPrograms;
 
 public class StockHolders {
 	private String name;
-	private int Amount;
-	private int Company;
+	private int balance;
+	private String []shareholding;
+	private int quantity[];
 	public String getName() {
 		return name;
 	}
 	public void setName(String name) {
 		this.name = name;
 	}
-	public int getAmount() {
-		return Amount;
+	public int getBalance() {
+		return balance;
 	}
-	public void setAmount(int amount) {
-		Amount = amount;
+	public void setBalance(int balance) {
+		this.balance = balance;
 	}
-	public int getCompany() {
-		return Company;
+	public String[] getShareholding() {
+		return shareholding;
 	}
-	public void setCompany(int company) {
-		Company = company;
+	public void setShareholding(String[] shareholding) {
+		this.shareholding = shareholding;
 	}
+	public int[] getQuantity() {
+		return quantity;
+	}
+	public void setQuantity(int[] quantity) {
+		this.quantity = quantity;
+	}
+	
 	
 }

@@ -2,7 +2,8 @@ package com.bridgeLabz.objectOrientedPrograms;
 
 public class Companies {
 	private String name;
-	private int Balance;
+	private String symbol;
+	private int balance;
 	private int shares;
 	private int price;
 	public int getPrice() {
@@ -18,15 +19,21 @@ public class Companies {
 		this.name = name;
 	}
 	public int getBalance() {
-		return Balance;
+		return balance;
 	}
 	public void setBalance(int balance) {
-		Balance = balance;
+		this.balance = balance;
 	}
 	public int getShares() {
 		return shares;
 	}
 	public void setShares(int shares) {
 		this.shares = shares;
+	}
+	public String getSymbol() {
+		return symbol;
+	}
+	public void setSymbol(String symbol) {
+		this.symbol = symbol;
 	}
 }

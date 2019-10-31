@@ -1,0 +1,27 @@
+package com.bridgeLabz.objectOrientedPrograms;
+
+public class StockHolders {
+	private String name;
+	private int Amount;
+	private Company company;
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public int getAmount() {
+		return Amount;
+	}
+	public void setAmount(int amount) {
+		Amount = amount;
+	}
+	public Company getCompany() {
+		return company;
+	}
+	public void setCompany(Company company) {
+		this.company = company;
+	}
+	
+	
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.core.JsonFactory"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.core.JsonParser"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.JsonNode"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="org.apache.commons.lang3.SerializationUtils"/>
+    <fullyQualifiedTypeName name="java.time.DayOfWeek"/>
+    <fullyQualifiedTypeName name="com.google.gson.JsonObject"/>
+    <fullyQualifiedTypeName name="com.BridgeLabz.ObjectOrientedPrograms.DataToWrite"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="com.BridgeLabz.ObjectOrientedPrograms.Inventory"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.DeserializationFeature"/>
+    <fullyQualifiedTypeName name="com.BridgeLabz.ObjectOrientedPrograms.StockPortfolio"/>
+    <fullyQualifiedTypeName name="java.util.jar.JarException"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.core.type.TypeReference"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="utility.Util"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
+    <fullyQualifiedTypeName name="com.bridgeLabz.objectOrientedPrograms.StockHolders"/>
+    <fullyQualifiedTypeName name="com.bridgeLabz.objectOrientedPrograms.Companies"/>
+    <fullyQualifiedTypeName name="java.time.ZoneId"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.time.LocalTime"/>
+</qualifiedTypeNameHistroy>

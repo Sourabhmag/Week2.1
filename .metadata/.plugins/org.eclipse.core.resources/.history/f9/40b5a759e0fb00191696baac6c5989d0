@@ -1,0 +1,25 @@
+package com.bridgeLabz.clinique.service;
+
+import java.util.List;
+
+import com.bridgeLabz.clinique.model.Patient;
+import com.bridgeLabz.clinique.utility.Util;
+
+public class PatientData {
+	public void add() 
+	{
+		String path = "";
+		List<Patient> list_of_patients = Util.readPatient(path);
+		Patient addPatient = new Patient();
+		System.out.println("Enter name of Patient");
+		addPatient.setName(Util.readString());
+		System.out.println("Enter id of Patient");
+		addPatient.setId(Util.readInt());
+		System.out.println("Enter mobile number of Patient");
+		addPatient.setMobile_number(Util.readInt());
+		System.out.println("Enter age");
+		addPatient.setAge(Util.readInt());
+		list_of_patients.add(addPatient);
+		Util.writePatient(path, list_of_patients);
+	}
+}

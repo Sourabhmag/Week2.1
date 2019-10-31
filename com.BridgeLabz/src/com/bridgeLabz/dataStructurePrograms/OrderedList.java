@@ -13,7 +13,7 @@ public class OrderedList {
 
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
-		String path = "/home/user/eclipse-workspace/com.BridgeLabz/src/com/BridgeLabz/DataStructurePrograms/number.txt";
+		String path = "/home/user/eclipse-workspace/com.BridgeLabz/bin/com/bridgeLabz/dataStructurePrograms/number.txt";
 		String []content_of_file=Util.readFile(path);
 		Integer []content_of_file_int = new Integer[content_of_file.length];
 		for(int i=0;i<content_of_file.length;i++)

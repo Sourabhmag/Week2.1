@@ -12,7 +12,7 @@ import com.bridgeLabz.utility.Util;
 public class UnorderedList {
 	
 	public static void main(String[] args) throws Exception {
-		String path = "/home/user/eclipse-workspace/com.BridgeLabz/src/com/BridgeLabz/DataStructurePrograms/sourabh.txt";
+		String path = "/home/user/eclipse-workspace/com.BridgeLabz/bin/com/bridgeLabz/dataStructurePrograms/sourabh.txt";
 		String []content_of_file = Util.readFile(path);
 		for(int i=0;i<content_of_file.length;i++)
 		{

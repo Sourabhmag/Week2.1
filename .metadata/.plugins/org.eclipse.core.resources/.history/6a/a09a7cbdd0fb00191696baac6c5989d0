@@ -1,0 +1,5 @@
+package com.bridgeLabz.clinique.model;
+
+public class Doctor {
+
+}

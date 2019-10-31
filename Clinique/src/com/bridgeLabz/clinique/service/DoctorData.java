@@ -1,0 +1,65 @@
+package com.bridgeLabz.clinique.service;
+
+import java.util.List;
+import java.util.stream.Collectors;
+
+import com.bridgeLabz.clinique.model.*;
+import com.bridgeLabz.clinique.utility.Util;
+
+public class DoctorData {
+	static String path = "/home/user/eclipse-workspace/Clinique/src/com/bridgeLabz/clinique/repository/doctor.json";
+	public static void add() {
+		List<Doctor> list_of_doctors = Util.readDoctor(path);
+		Doctor addDoctor = new Doctor();
+		System.out.println("Enter name of Doctor");
+		addDoctor.setName(Util.readString());
+		System.out.println("Enter id of doctor");
+		addDoctor.setId(Util.readInt());
+		System.out.println("Enter Specilization of doctor");
+		addDoctor.setSpecilization(Util.readString());
+		System.out.println("Enter avaliability");
+		addDoctor.setAvaliability(Util.readBoolean());
+		list_of_doctors.add(addDoctor);
+		Util.writeDoctor(path, list_of_doctors);
+	}
+
+	public static void delete(String doctorName) {
+		boolean flag = false;
+		List<Doctor> list_of_doctors = Util.readDoctor(path);
+		for (Doctor i : list_of_doctors) {
+			if (doctorName.equals(i.getName())) {
+				flag = true;
+				list_of_doctors.remove(i);
+				Util.writeDoctor(path, list_of_doctors);
+				System.out.println("Doctor removed successfully");
+				return;
+			}
+		}
+		if (flag == false) {
+			System.out.println("Doctor is not present in list");
+		}
+	}
+
+	public static void searchByName(String doctorName) {
+		List<Doctor> list_of_doctors = Util.readDoctor(path);
+		List<Doctor> list = list_of_doctors.stream().filter(i -> i.getName().equals(doctorName))
+				.collect(Collectors.toList());
+		if (list.get(0).getName().equals(doctorName))
+			System.out.println("Doctor found");
+		else
+			System.out.println("Not found");
+		System.out.println(list.get(0));
+		}
+	
+	
+	public static void searchById(int id) {
+		List<Doctor> list_of_doctors = Util.readDoctor(path);
+		List<Doctor> list = list_of_doctors.stream().filter(i -> i.getId()==id)
+				.collect(Collectors.toList());
+		if (list.get(0).getId()==id)
+			System.out.println("Doctor found");
+		else
+			System.out.println("Not found");
+		}
+
+}

@@ -1,0 +1,51 @@
+package com.bridgeLabz.clinique.controller;
+
+import com.bridgeLabz.clinique.service.DoctorData;
+import com.bridgeLabz.clinique.service.PatientData;
+import com.bridgeLabz.clinique.utility.Util;
+
+public class Clinique {
+
+	public static void main(String[] args) {
+		System.out.println("1)Add Doctor\n2)Add Patient\n3)Search Doctor by Name\n4)Search Doctor by id\n"
+				+ "5)Delete Doctor\n6)Search Patient by Name\n7)Search Patient by id\n8)Delete Patient\n9)"
+				+ "Search Patient by Mobile Number");
+		
+		int choice = Util.readInt();
+		switch(choice)
+		{
+		case 1:DoctorData.add();break;
+		case 2:PatientData.add();break;
+		case 3:
+			System.out.println("Enter name of doctor");
+			DoctorData.searchByName(Util.readString());
+			break;
+		case 4:
+			System.out.println("Enter id of doctor");
+			DoctorData.searchById(Util.readInt());
+			break;
+		case 5:
+			System.out.println("Enter name of doctor");
+			DoctorData.delete(Util.readString());
+			break;
+		case 6:
+			System.out.println("Enter name of patient");
+			PatientData.searchByName(Util.readString());
+			break;
+		case 7:
+			System.out.println("Enter id of patient");
+			PatientData.searchById(Util.readInt());
+			break;
+		case 8:
+			System.out.println("Enter name of patient");
+			PatientData.delete(Util.readString());
+			break;
+		case 9:
+			System.out.println("Enter mobile number of patient");
+			PatientData.searchByMobileNumber(Util.readInt());
+			break;
+		default :System.out.println("Enter valid choice code");
+		}
+	}
+
+}
