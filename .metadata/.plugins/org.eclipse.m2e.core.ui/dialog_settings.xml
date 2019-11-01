@@ -69,11 +69,13 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="AddressBook"/>
 			<item value="Clinique"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="AddressBook"/>
 			<item value="Clinique"/>
 		</list>
 		<list key="version">

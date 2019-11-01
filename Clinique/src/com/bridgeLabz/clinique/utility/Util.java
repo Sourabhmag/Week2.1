@@ -2,9 +2,11 @@ package com.bridgeLabz.clinique.utility;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+import com.bridgeLabz.clinique.model.Appointment;
 import com.bridgeLabz.clinique.model.Doctor;
 import com.bridgeLabz.clinique.model.Patient;
 import com.fasterxml.jackson.core.type.TypeReference;
@@ -148,6 +150,19 @@ public class Util {
 		}
 		return list_of_patients;
 	}
+	public static List <Appointment>readAppointment(String path)
+	{
+		List<Appointment> list_of_appointment=new ArrayList<Appointment>();
+		try {
+			list_of_appointment = mapper.readValue(new File(path),new TypeReference<List<Object>>() {
+			});
+			return list_of_appointment;
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return list_of_appointment;
+	}
 	public static void writeDoctor(String path,List<Doctor> list_of_doctors)
 	{
 		try {
@@ -158,6 +173,15 @@ public class Util {
 		}
 	}
 	
+	public static void writeAppointment(String path,List<Appointment> list_of_appointment)
+	{
+		try {
+			mapper.writeValue(new File(path),list_of_appointment);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
 	public static void writePatient(String path,List<Patient> list_of_patients)
 	{
 		try {
