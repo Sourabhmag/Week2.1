@@ -1,5 +1,10 @@
 package com.bridgeLabz.objectOrientedPrograms;
 
+/**
+ * @author Sourabh Magdum
+ * @Purpose - Pojo class for stockholders
+ * Date 30/10/2019
+ */
 public class StockHolders {
 	private String name;
 	private int balance;

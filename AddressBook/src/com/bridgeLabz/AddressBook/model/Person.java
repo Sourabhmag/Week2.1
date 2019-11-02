@@ -1,5 +1,10 @@
 package com.bridgeLabz.AddressBook.model;
 
+/**
+ * @author Sourabh Magdum
+ * @Purpose - Pojo class of person to read and write person.json
+ *  Date- 02/11/2019
+ */
 public class Person {
 	private String firstname;
 	private String lastname;

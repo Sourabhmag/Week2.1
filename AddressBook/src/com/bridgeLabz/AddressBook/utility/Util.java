@@ -125,7 +125,7 @@ public class Util {
 			return list_of_persons;
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			
 		}
 		return list_of_persons;
 	}
@@ -136,7 +136,6 @@ public class Util {
 			mapper.writeValue(new File(path),list_of_persons);
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
 		}
 	}
 }

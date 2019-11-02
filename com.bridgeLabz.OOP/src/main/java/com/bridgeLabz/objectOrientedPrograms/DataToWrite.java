@@ -1,5 +1,10 @@
 package com.bridgeLabz.objectOrientedPrograms;
 
+/**
+ * @author Sourabh Magdum
+ * @Purpose - Pojo class
+ * @Date - 29/10/2019
+ */
 public class DataToWrite {
 	private String name;
 	private int weight;

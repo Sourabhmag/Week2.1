@@ -2,6 +2,11 @@ package com.bridgeLabz.clinique.model;
 
 import com.bridgeLabz.clinique.utility.Util;
 
+/**
+ * @author Sourabh Magdum
+ * @Purpose - Pojo class to write and read date from doctor.json
+ * Date - 01/11/2019
+ */
 public class Doctor {
 private String name;
 private int id;

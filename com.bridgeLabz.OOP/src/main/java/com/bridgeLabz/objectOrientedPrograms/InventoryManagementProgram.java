@@ -11,6 +11,11 @@ import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.gson.JsonObject;
 
+/**
+ * @author Sourabh Magdum
+ * @Purpose - Read data from file and prits total bill
+ * Date - 29/10/2019
+ */
 public class InventoryManagementProgram {
 
 	public static void main(String[] args) throws Exception {
@@ -31,6 +36,14 @@ public class InventoryManagementProgram {
 		System.out.println(cost.toString());
 		
 	}
+	/**
+	 * @param path
+	 * @param key
+	 * @return Returns object of type Inventory
+	 * @throws JsonParseException
+	 * @throws JsonMappingException
+	 * @throws IOException
+	 */
 	public static Inventory readJson(String path,String key) throws JsonParseException, JsonMappingException, IOException
 	{
 		ObjectMapper mapper = new ObjectMapper();

@@ -1,11 +1,14 @@
 package com.bridgeLabz.clinique.controller;
 
-
-import com.bridgeLabz.clinique.service.AppointmentData;
 import com.bridgeLabz.clinique.service.DoctorData;
 import com.bridgeLabz.clinique.service.PatientData;
 import com.bridgeLabz.clinique.utility.Util;
 
+/**
+ * @author Sourabh Magdum
+ * @Purpose - Controller Class of clinic management system
+ * Date - 01/11/2019
+ */
 public class Clinique {
 
 	public static void main(String[] args) {
@@ -99,7 +102,7 @@ public class Clinique {
 		case 13:
 			System.out.println("Enter name of Doctor");
 			//AppointmentData.set();
-			AppointmentData.getAppointment(Util.readString());
+			DoctorData.getAppointment(Util.readString());
 			main(args);
 			break;
 		case 14:

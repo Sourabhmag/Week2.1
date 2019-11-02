@@ -5,10 +5,16 @@ import java.util.stream.Collectors;
 
 import com.bridgeLabz.clinique.model.*;
 import com.bridgeLabz.clinique.utility.Util;
-
+/**
+ * @author Sourabh Magdum
+ * @Purpose - Used to handle operations of doctor
+ * Date - 01/11/2019
+ */
 public class DoctorData {
 	static String path = "/home/user/eclipse-workspace/Clinique/src/com/bridgeLabz/clinique/repository/doctor.json";
-
+	/**
+	 * @Purpose - Used to add doctor
+	 */
 	public static void add() {
 		List<Doctor> list_of_doctors = Util.readDoctor(path);
 		Doctor addDoctor = new Doctor();
@@ -23,7 +29,9 @@ public class DoctorData {
 		Util.writeDoctor(path, list_of_doctors);
 		System.out.println("Doctor added successfully");
 	}
-
+	/**
+	 * @Purpose - Used to delete doctor
+	 */
 	public static boolean delete(String doctorName) {
 
 		List<Doctor> list_of_doctors = Util.readDoctor(path);
@@ -37,7 +45,9 @@ public class DoctorData {
 		return false;
 
 	}
-
+	/**
+	 * @Purpose - Used to search doctor By Name
+	 */
 	public static boolean searchByName(String doctorName) {
 		List<Doctor> list_of_doctors = Util.readDoctor(path);
 		List<Doctor> list = list_of_doctors.stream().filter(i -> i.getName().equals(doctorName))
@@ -50,7 +60,9 @@ public class DoctorData {
 		}
 		return false;
 	}
-
+	/**
+	 * @Purpose - Used to search doctor By Id
+	 */
 	public static boolean searchById(int id) {
 		List<Doctor> list_of_doctors = Util.readDoctor(path);
 		List<Doctor> list = list_of_doctors.stream().filter(i -> i.getId() == id).collect(Collectors.toList());
@@ -62,21 +74,27 @@ public class DoctorData {
 		}
 		return false;
 	}
-
+	/**
+	 * @Purpose - Used to check Avaliability of doctor By Name
+	 */
 	public static void checkAvaliabilityByName(String name) {
 		List<Doctor> list_of_doctors = Util.readDoctor(path);
 		List<Doctor> list = list_of_doctors.stream().filter(i -> i.getName().equals(name)).collect(Collectors.toList());
 		if (list.isEmpty()==false)
 			System.out.println(list.get(0).getAvaliability());
 	}
-
+	/**
+	 * @Purpose - Used to check Avaliability of doctor By Id
+	 */
 	public static void checkAvaliabilityById(int id) {
 		List<Doctor> list_of_doctors = Util.readDoctor(path);
 		List<Doctor> list = list_of_doctors.stream().filter(i -> i.getId() == id).collect(Collectors.toList());
 		if (list.isEmpty()==false)
 			System.out.println(list.get(0).getAvaliability());
 	}
-
+	/**
+	 * @Purpose - Used to search doctor By Specialization
+	 */
 	public static void searchBySpecialization(String specialization) {
 		List<Doctor> list_of_doctors = Util.readDoctor(path);
 		List<Doctor> list = list_of_doctors.stream().filter(i -> i.getSpecilization().equals(specialization))
@@ -87,7 +105,24 @@ public class DoctorData {
 			}
 		}
 	}
-
+	public static void getAppointment(String name) {
+		List<Doctor> list_of_doctors = Util.readDoctor(path);
+		for(Doctor d : list_of_doctors)
+		{
+			if(d.getName().equals(name))
+			{
+				if(d.getPatient_count()<5)
+				{
+					d.setPatient_count();
+					Util.writeDoctor(path, list_of_doctors);
+					System.out.println("Your appointment is fixed with Dr."+name);
+					return;
+				}
+			}
+		}
+		System.out.println("Doctor not found");
+			
+		
+	}
 	
-
 }

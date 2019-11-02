@@ -74,6 +74,7 @@ public class StockAccount {
 		list_of_buyers.add(newUser);
 		writeStockHolder(list_of_buyers);
 		end_time = LocalTime.now();
+		System.out.println("Account created successfully");
 	}
 
 	void buy(int amount, String symbol) throws JsonParseException, JsonMappingException, IOException {
@@ -177,6 +178,7 @@ public class StockAccount {
 					break;
 				}
 			}
+			
 		}
 
 		for (Companies i : list_of_companies) {
@@ -194,6 +196,7 @@ public class StockAccount {
 			save(list_of_buyers, list_of_companies);
 		}
 		end_time = LocalTime.now();
+		System.out.println("Transaction done successfully");
 		return;
 
 	}
@@ -291,6 +294,7 @@ public class StockAccount {
 			save(list_of_sellers, list_of_companies);
 		}
 		end_time = LocalTime.now();
+		System.out.println("Transaction done successfully");
 		return;
 	}
 
@@ -306,6 +310,7 @@ public class StockAccount {
 			throws JsonGenerationException, JsonMappingException, IOException {
 		writeStockHolder(list_of_buyers);
 		writeCompanies(list_of_companies);
+		System.out.println("Data saved successfully");
 	}
 
 	/**
@@ -318,23 +323,30 @@ public class StockAccount {
 	public double valueOf() throws JsonParseException, JsonMappingException, IOException {
 		System.out.println("Enter name of account holder");
 		String account_holder = Util.readString();
+		
 		List<StockHolders> list_of_account_holders = readStockHolder();
 		List<Companies> list_of_companies = readCompanies();
+		
 		StockHolders index_of_account = null;
 		boolean check_account = false;
+		
 		for (StockHolders i : list_of_account_holders) {
 			if (account_holder.equals(i.getName())) {
 				check_account = true;
 				index_of_account = i;
 			}
 		}
+		//validate account holder
 		if (check_account == false) {
 			System.out.println("Entered account holder is not present");
 			return 0;
 		}
+		
 		double sum = 0;
+		
 		int quantity[] = index_of_account.getQuantity();
 		int price_per_share = 0;
+		
 		String company[] = index_of_account.getShareholding();
 
 		for (int j = 0; j < company.length; j++) {
@@ -346,14 +358,14 @@ public class StockAccount {
 			}
 			sum += (quantity[j] * price_per_share);
 		}
-
 		return sum;
 	}
 
 	/**
 	 * @Purpose - Prints Transaction report
 	 */
-	private void printReport() {
+	public void printReport() {
+		System.out.println();
 		System.out.println("Date of Transaction :" + date);
 		System.out.println("Time :" + (end_time));
 		if (set == 1) {
@@ -361,48 +373,21 @@ public class StockAccount {
 			System.out.println("Total amount :" + buy_amount);
 			System.out.println("Stock name :" + buy_symbol);
 			System.out.println("Number of shares purchesed :"+bought_shares);
+			System.out.println();
 		}
 		if (set == 2) {
 			System.out.println("Name of Seller :" + seller);
 			System.out.println("Total amount :" + sell_amount);
 			System.out.println("Stock name :" + sell_symbol);
 			System.out.println("Number of shares sold :"+sold_shares);
+			System.out.println();
 		}
 
 	}
 
-	public static void main(String[] args) throws JsonParseException, JsonMappingException, IOException {
-		StockAccount abc = new StockAccount();
-		System.out.println(
-				"Enter your choice\n1)Create New Account\n2)Buy Share\n3)Sell Share\n4)Print Net Worth\n5)Print Report");
-		int choice = Util.readInt();
-		switch (choice) {
-		case 1:
-			abc.stockAccount();
-			break;
-		case 2: {
-			System.out.println("Enter amount");
-			int amount = Util.readInt();
-			System.out.println("Enter symbol");
-			String symbol = Util.readString();
-			abc.buy(amount, symbol);
-			break;
-		}
-		case 3:
-			System.out.println("Enter amount");
-			int amount = Util.readInt();
-			System.out.println("Enter symbol");
-			String symbol = Util.readString();
-			abc.sell(amount, symbol);
-			break;
-		case 4:
-			System.out.println("$" + abc.valueOf());
-			break;
-
-		}
-
-		abc.printReport();
+	
+		
 
 	}
 
-}
+
