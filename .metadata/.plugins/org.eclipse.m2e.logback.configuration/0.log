@@ -4471,3 +4471,656 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.fasterxml
 2019-11-02 16:34:48,681 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-11-02 16:34:48,683 [Worker-103: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-11-02 16:34:48,683 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-03 10:36:22,992 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-03 13:57:29,001 [Worker-72: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-03 13:57:29,017 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/AddressBook/src/main/resources
+2019-11-03 13:57:29,021 [Worker-72: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-03 13:57:29,021 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/AddressBook/src/test/resources
+2019-11-03 13:57:30,064 [Worker-72: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-03 13:57:30,065 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/Clinique/src/main/resources
+2019-11-03 13:57:30,067 [Worker-72: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-03 13:57:30,068 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/Clinique/src/test/resources
+2019-11-03 15:39:35,686 [Worker-96: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-03 15:39:35,688 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/AddressBook/src/main/resources
+2019-11-03 15:39:35,692 [Worker-96: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-03 15:39:35,693 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/AddressBook/src/test/resources
+2019-11-03 15:39:50,434 [Worker-101: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-03 15:39:50,434 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/AddressBook/src/main/resources
+2019-11-03 15:39:50,439 [Worker-101: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-03 15:39:50,439 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/AddressBook/src/test/resources
+2019-11-03 15:39:55,274 [Worker-101: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-03 15:39:55,275 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/AddressBook/src/main/resources
+2019-11-03 15:39:55,277 [Worker-101: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-03 15:39:55,277 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/AddressBook/src/test/resources
+2019-11-04 10:08:35,988 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-11-04 10:08:52,344 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-04 10:08:52,346 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/AddressBook/src/main/resources
+2019-11-04 10:08:52,354 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-04 10:08:52,355 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/AddressBook/src/test/resources
+2019-11-04 17:11:02,036 [Worker-74: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/user/eclipse-workspace/jdbc/pom.xml
+2019-11-04 17:11:04,423 [Worker-74: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jdbc:jdbc:0.0.1-SNAPSHOT @ /home/user/eclipse-workspace/jdbc/pom.xml.
+2019-11-04 17:11:04,975 [Worker-74: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdbc/src/main/java
+2019-11-04 17:11:04,984 [Worker-74: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdbc/src/test/java
+2019-11-04 17:11:05,026 [Worker-74: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2019-11-04 17:11:05,933 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:11:05,934 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/jdbc/src/main/resources
+2019-11-04 17:11:05,947 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:11:05,948 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/jdbc/src/test/resources
+2019-11-04 17:11:37,192 [Worker-76: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jdbc:jdbc:0.0.1-SNAPSHOT @ /home/user/eclipse-workspace/com.bridgeLabz.jdbc/pom.xml.
+2019-11-04 17:11:37,286 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:11:37,286 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:11:37,297 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:11:37,297 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:11:38,693 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:11:38,693 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:11:38,706 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:11:38,706 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:13:00,685 [Worker-74: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jdbc:jdbc:0.0.1-SNAPSHOT @ /home/user/eclipse-workspace/com.bridgeLabz.jdbc/pom.xml.
+2019-11-04 17:13:02,688 [Worker-74: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.18/mysql-connector-java-8.0.18.pom
+2019-11-04 17:13:02,825 [Worker-74: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.18/mysql-connector-java-8.0.18.pom
+2019-11-04 17:13:03,144 [Worker-74: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.pom
+2019-11-04 17:13:03,276 [Worker-74: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.pom
+2019-11-04 17:13:03,773 [Worker-74: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.6.1/protobuf-parent-3.6.1.pom
+2019-11-04 17:13:04,045 [Worker-74: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.6.1/protobuf-parent-3.6.1.pom
+2019-11-04 17:13:04,197 [Worker-74: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.18/mysql-connector-java-8.0.18.jar
+2019-11-04 17:15:33,026 [Worker-74: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.18/mysql-connector-java-8.0.18.jar
+2019-11-04 17:15:33,160 [Worker-74: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar
+2019-11-04 17:17:02,333 [Worker-74: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar
+2019-11-04 17:17:02,593 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:17:02,593 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:17:02,595 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:17:02,597 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:17:05,852 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.18/mysql-connector-java-8.0.18-sources.jar
+2019-11-04 17:17:07,033 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:17:07,033 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:17:07,035 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:17:07,035 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:17:16,280 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:17:16,280 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:17:16,290 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:17:16,290 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:17:35,727 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.18/mysql-connector-java-8.0.18-sources.jar
+2019-11-04 17:17:35,930 [Worker-85: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:8.0.18
+2019-11-04 17:17:36,186 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1-sources.jar
+2019-11-04 17:17:45,812 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:17:45,812 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:17:45,819 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:17:45,820 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:17:46,778 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1-sources.jar
+2019-11-04 17:17:46,961 [Worker-85: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.protobuf:protobuf-java:3.6.1
+2019-11-04 17:17:47,177 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:17:47,178 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:17:47,188 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:17:47,188 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:20:25,752 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:20:25,752 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:20:25,754 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:20:25,754 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:22:22,829 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:22:22,829 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:22:22,831 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:22:22,832 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:24:01,446 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:24:01,448 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:24:01,450 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:24:01,450 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:24:42,880 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:24:42,880 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:24:42,885 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:24:42,885 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:25:54,814 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:25:54,814 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:25:54,817 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:25:54,817 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:29:25,740 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:29:25,740 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:29:25,745 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:29:25,745 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:31:27,800 [Worker-88: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jdbc:jdbc:0.0.1-SNAPSHOT @ /home/user/eclipse-workspace/com.bridgeLabz.jdbc/pom.xml.
+2019-11-04 17:31:27,957 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:31:27,957 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:31:27,961 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:31:27,961 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:31:29,297 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:31:29,298 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:31:29,303 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:31:29,304 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:32:10,663 [Worker-76: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jdbc:jdbc:0.0.1-SNAPSHOT @ /home/user/eclipse-workspace/com.bridgeLabz.jdbc/pom.xml.
+2019-11-04 17:32:13,106 [Worker-76: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.23/mysql-connector-java-5.1.23.pom
+2019-11-04 17:32:13,643 [Worker-76: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.23/mysql-connector-java-5.1.23.pom
+2019-11-04 17:32:13,790 [Worker-76: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.23/mysql-connector-java-5.1.23.jar
+2019-11-04 17:33:06,312 [Worker-76: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.23/mysql-connector-java-5.1.23.jar
+2019-11-04 17:33:06,523 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:33:06,524 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:33:06,547 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:33:06,547 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:33:07,878 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:33:07,879 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:33:07,882 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:33:07,882 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:33:08,241 [Worker-87: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.23/mysql-connector-java-5.1.23-sources.jar
+2019-11-04 17:34:03,522 [Worker-87: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.23/mysql-connector-java-5.1.23-sources.jar
+2019-11-04 17:34:03,685 [Worker-87: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:5.1.23
+2019-11-04 17:34:03,834 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:34:03,834 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:34:03,837 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:34:03,838 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:35:33,639 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:35:33,640 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:35:33,641 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:35:33,641 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:36:05,430 [Worker-88: Launching Connection] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:36:05,430 [Worker-88: Launching Connection] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:36:05,432 [Worker-88: Launching Connection] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:36:05,433 [Worker-88: Launching Connection] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:37:06,581 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:37:06,582 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:37:06,583 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:37:06,583 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:37:22,044 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:37:22,045 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:37:22,049 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:37:22,051 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:41:53,943 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:41:53,943 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:41:53,944 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:41:53,945 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:42:11,108 [Worker-91: Launching Connection] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:42:11,109 [Worker-91: Launching Connection] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:42:11,120 [Worker-91: Launching Connection] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:42:11,120 [Worker-91: Launching Connection] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:54:57,048 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:54:57,048 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:54:57,050 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:54:57,050 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:56:04,940 [Worker-93: Launching Connection] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:56:04,941 [Worker-93: Launching Connection] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:56:04,942 [Worker-93: Launching Connection] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:56:04,943 [Worker-93: Launching Connection] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:57:57,155 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:57:57,155 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:57:57,157 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:57:57,157 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:58:27,161 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:58:27,161 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:58:27,164 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:58:27,165 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 17:59:46,660 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:59:46,661 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 17:59:46,665 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 17:59:46,665 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:00:01,062 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:00:01,062 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:00:01,065 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:00:01,065 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:06:59,279 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:06:59,279 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:06:59,281 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:06:59,281 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:07:13,148 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:07:13,148 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:07:13,150 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:07:13,150 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:07:45,794 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:07:45,794 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:07:45,796 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:07:45,796 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:08:31,230 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:08:31,230 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:08:31,233 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:08:31,233 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:09:31,559 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:09:31,560 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:09:31,562 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:09:31,562 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:09:49,178 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:09:49,178 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:09:49,182 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:09:49,182 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:13:22,771 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:13:22,771 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:13:22,777 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:13:22,777 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:17:21,822 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:17:21,826 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:17:21,828 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:17:21,828 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:17:54,735 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:17:54,736 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:17:54,737 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:17:54,738 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:18:07,580 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:18:07,581 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:18:07,583 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:18:07,583 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:23:58,208 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:23:58,208 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:23:58,212 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:23:58,213 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:26:26,605 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:26:26,605 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:26:26,606 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:26:26,607 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:26:45,926 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:26:45,927 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:26:45,931 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:26:45,931 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:26:53,313 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:26:53,313 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:26:53,318 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:26:53,318 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:26:59,187 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:26:59,187 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:26:59,189 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:26:59,189 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:28:00,597 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:28:00,598 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:28:00,599 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:28:00,599 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:28:14,935 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:28:14,935 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:28:14,936 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:28:14,937 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:28:22,506 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:28:22,506 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:28:22,508 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:28:22,509 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:28:38,561 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:28:38,562 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:28:38,564 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:28:38,564 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:29:27,912 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:29:27,913 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:29:27,916 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:29:27,916 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:29:44,191 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:29:44,191 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:29:44,203 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:29:44,204 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:29:54,534 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:29:54,535 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:29:54,536 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:29:54,536 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:30:08,183 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:30:08,183 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:30:08,184 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:30:08,185 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:30:47,989 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:30:47,990 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:30:47,991 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:30:47,993 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:32:48,620 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:32:48,621 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:32:48,622 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:32:48,624 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:32:53,781 [Worker-105: Launching JdbcCRUD] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:32:53,782 [Worker-105: Launching JdbcCRUD] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:32:53,783 [Worker-105: Launching JdbcCRUD] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:32:53,783 [Worker-105: Launching JdbcCRUD] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:34:21,983 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:34:21,983 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:34:21,984 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:34:21,985 [Worker-100: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:34:48,799 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:34:48,799 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:34:48,801 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:34:48,801 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:36:09,753 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:36:09,753 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:36:09,756 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:36:09,756 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:37:16,010 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:37:16,010 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:37:16,012 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:37:16,012 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:37:51,380 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:37:51,381 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:37:51,384 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:37:51,385 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:38:23,676 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:38:23,676 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:38:23,679 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:38:23,679 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:40:02,416 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:40:02,417 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:40:02,418 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:40:02,424 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:40:09,409 [Worker-106: Launching JdbcCRUD] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:40:09,409 [Worker-106: Launching JdbcCRUD] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:40:09,410 [Worker-106: Launching JdbcCRUD] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:40:09,411 [Worker-106: Launching JdbcCRUD] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:40:31,587 [Worker-100: Launching JdbcCRUD] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:40:31,588 [Worker-100: Launching JdbcCRUD] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:40:31,591 [Worker-100: Launching JdbcCRUD] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:40:31,592 [Worker-100: Launching JdbcCRUD] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:40:42,355 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:40:42,355 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:40:42,357 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:40:42,357 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:42:31,062 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:42:31,062 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:42:31,064 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:42:31,064 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:42:47,941 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:42:47,941 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:42:47,946 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:42:47,946 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:44:37,418 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:44:37,419 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:44:37,420 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:44:37,420 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:44:55,813 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:44:55,814 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:44:55,816 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:44:55,816 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:48:30,820 [Worker-109: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-11-04 18:48:31,604 [Worker-109: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jdbc:jdbc:0.0.1-SNAPSHOT @ /home/user/eclipse-workspace/com.bridgeLabz.jdbc/pom.xml.
+2019-11-04 18:48:31,767 [Worker-109: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.bridgeLabz.jdbc/src/main/java
+2019-11-04 18:48:31,767 [Worker-109: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.bridgeLabz.jdbc/src/test/java
+2019-11-04 18:48:31,929 [Worker-109: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-11-04 18:48:32,204 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:48:32,204 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:48:32,206 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:48:32,206 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:48:50,128 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-11-04 18:48:50,750 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jdbc:jdbc:0.0.1-SNAPSHOT @ /home/user/eclipse-workspace/com.bridgeLabz.jdbc/pom.xml.
+2019-11-04 18:48:50,913 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.bridgeLabz.jdbc/src/main/java
+2019-11-04 18:48:50,913 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.bridgeLabz.jdbc/src/test/java
+2019-11-04 18:48:51,053 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-11-04 18:48:51,299 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:48:51,299 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:48:51,301 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:48:51,302 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:49:07,671 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:49:07,671 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:49:07,672 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:49:07,673 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:50:41,917 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:50:41,917 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:50:41,919 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:50:41,919 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:50:53,983 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:50:53,983 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:50:53,984 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:50:53,984 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:50:59,363 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:50:59,374 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:50:59,376 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:50:59,376 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:51:09,682 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:51:09,682 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:51:09,684 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:51:09,684 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:52:00,148 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:52:00,148 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:52:00,151 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:52:00,151 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:52:08,577 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:52:08,577 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:52:08,579 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:52:08,579 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:52:51,259 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:52:51,259 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:52:51,260 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:52:51,261 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:53:07,435 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:53:07,435 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:53:07,436 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:53:07,436 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:53:21,968 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:53:21,968 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:53:21,971 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:53:21,971 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:53:31,721 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:53:31,721 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:53:31,722 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:53:31,722 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:54:24,334 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:54:24,334 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:54:24,335 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:54:24,336 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:55:34,140 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:55:34,140 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:55:34,143 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:55:34,143 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:56:20,587 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:56:20,589 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:56:20,596 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:56:20,597 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:57:39,524 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:57:39,524 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:57:39,526 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:57:39,526 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:57:56,729 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:57:56,730 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:57:56,732 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:57:56,732 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:58:33,610 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:58:33,611 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:58:33,612 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:58:33,612 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:59:08,379 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:59:08,380 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:59:08,381 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:59:08,381 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 18:59:32,190 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:59:32,191 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 18:59:32,192 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 18:59:32,192 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 19:02:19,333 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 19:02:19,333 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 19:02:19,337 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 19:02:19,338 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 19:06:39,442 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 19:06:39,442 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 19:06:39,449 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 19:06:39,450 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 19:07:21,327 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 19:07:21,327 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 19:07:21,328 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 19:07:21,328 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 19:10:38,830 [Worker-114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 19:10:38,830 [Worker-114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 19:10:38,837 [Worker-114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 19:10:38,838 [Worker-114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 19:11:17,122 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 19:11:17,123 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 19:11:17,124 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 19:11:17,124 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-04 19:12:38,656 [Worker-114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 19:12:38,656 [Worker-114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-04 19:12:38,663 [Worker-114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 19:12:38,663 [Worker-114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 10:36:03,247 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-05 10:37:32,471 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:37:32,472 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 10:37:32,492 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:37:32,493 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 10:37:50,484 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:37:50,484 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 10:37:50,494 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:37:50,494 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 10:37:54,070 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:37:54,071 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 10:37:54,086 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:37:54,088 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 10:40:25,636 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:40:25,636 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 10:40:25,639 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:40:25,639 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 10:40:42,070 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:40:42,070 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 10:40:42,072 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:40:42,072 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 10:47:25,137 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:47:25,138 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 10:47:25,140 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:47:25,140 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 10:51:56,147 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:51:56,168 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 10:51:56,192 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:51:56,192 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 10:52:06,316 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:52:06,316 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 10:52:06,323 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:52:06,324 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 10:52:36,772 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:52:36,773 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 10:52:36,780 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:52:36,781 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 10:54:39,023 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:54:39,024 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 10:54:39,031 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:54:39,031 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 10:57:37,942 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:57:37,943 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 10:57:37,946 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:57:37,946 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 10:58:49,102 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:58:49,102 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 10:58:49,104 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:58:49,104 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 10:59:21,312 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:59:21,312 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 10:59:21,314 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:59:21,314 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 10:59:45,700 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:59:45,700 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 10:59:45,711 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 10:59:45,711 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:00:56,425 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:00:56,425 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:00:56,427 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:00:56,427 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:04:11,101 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:04:11,104 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:04:11,120 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:04:11,120 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:04:49,876 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:04:49,876 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:04:49,883 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:04:49,883 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:04:53,049 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:04:53,049 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:04:53,051 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:04:53,051 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:05:24,869 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:05:24,869 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:05:24,873 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:05:24,873 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:05:37,580 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:05:37,580 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:05:37,582 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:05:37,583 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:05:48,922 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:05:48,929 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:05:48,931 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:05:48,931 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:10:15,628 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:10:15,629 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:10:15,645 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:10:15,645 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:10:25,438 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:10:25,438 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:10:25,442 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:10:25,443 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:10:44,847 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:10:44,849 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:10:44,851 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:10:44,851 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:16:11,720 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:16:11,721 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:16:11,722 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:16:11,723 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:19:29,241 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:19:29,249 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:19:29,251 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:19:29,251 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:19:36,208 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:19:36,208 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:19:36,217 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:19:36,217 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:23:33,970 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:23:33,970 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:23:33,972 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:23:33,972 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:25:39,700 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:25:39,700 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:25:39,707 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:25:39,707 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:25:46,909 [Worker-28: Launching JdbcCrudWithPreparedStatement] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:25:46,909 [Worker-28: Launching JdbcCrudWithPreparedStatement] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:25:46,911 [Worker-28: Launching JdbcCrudWithPreparedStatement] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:25:46,911 [Worker-28: Launching JdbcCrudWithPreparedStatement] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:26:46,599 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:26:46,605 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:26:46,610 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:26:46,610 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:29:51,930 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:29:51,930 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:29:51,932 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:29:51,933 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:30:41,610 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:30:41,611 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:30:41,612 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:30:41,612 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:37:29,360 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:37:29,360 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:37:29,362 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:37:29,362 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:41:20,052 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:41:20,053 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:41:20,054 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:41:20,054 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:41:42,317 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:41:42,318 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:41:42,319 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:41:42,319 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:43:57,669 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:43:57,669 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:43:57,675 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:43:57,675 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:46:01,083 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:46:01,084 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:46:01,085 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:46:01,086 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:50:18,681 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:50:18,681 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:50:18,685 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:50:18,686 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:50:59,807 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:50:59,807 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:50:59,810 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:50:59,810 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 11:51:59,430 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:51:59,430 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 11:51:59,433 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 11:51:59,433 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 15:05:38,185 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 15:05:38,187 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 15:05:38,189 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 15:05:38,189 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 15:06:42,996 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 15:06:43,007 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 15:06:43,011 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 15:06:43,012 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 15:06:58,889 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 15:06:58,889 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 15:06:58,898 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 15:06:58,899 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 15:07:15,877 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 15:07:15,877 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 15:07:15,878 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 15:07:15,879 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 15:07:37,276 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 15:07:37,277 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 15:07:37,279 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 15:07:37,280 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 15:09:03,850 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 15:09:03,850 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 15:09:03,852 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 15:09:03,852 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
+2019-11-05 15:09:26,452 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 15:09:26,452 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/main/resources
+2019-11-05 15:09:26,460 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 15:09:26,461 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/eclipse-workspace/com.bridgeLabz.jdbc/src/test/resources
