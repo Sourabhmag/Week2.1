@@ -23,6 +23,12 @@ public class JdbcCrudWithPreparedStatement {
 		JdbcCrudWithPreparedStatement.login();
 	}
 
+	/**
+	 * @Purpose - Used to insert data into database
+	 * @param query
+	 * @throws ClassNotFoundException
+	 * @throws SQLException
+	 */
 	public static void insert(String query) throws ClassNotFoundException, SQLException {
 		Connection con = ConnectionClass.connectionToDB();
 		stmt = con.prepareStatement(query);
@@ -50,6 +56,11 @@ public class JdbcCrudWithPreparedStatement {
 		}
 
 	}
+	/**
+	 * @Purpose - Used to validate whether user entered valid username and password
+	 * @throws ClassNotFoundException
+	 * @throws SQLException
+	 */
 	public static void login() throws ClassNotFoundException, SQLException
 	{
 		System.out.println("Enter User name");
@@ -67,10 +78,10 @@ public class JdbcCrudWithPreparedStatement {
 		while(rs.next())
 		{
 			System.out.println("Username :"+rs.getString("username"));
-			System.out.println("Username :"+rs.getString("address"));
-			System.out.println("Username :"+rs.getString("phone"));
-			System.out.println("Username :"+rs.getString("email"));
-			System.out.println("Username :"+rs.getInt("age"));
+			System.out.println("address :"+rs.getString("address"));
+			System.out.println("phone number :"+rs.getString("phone"));
+			System.out.println("email id :"+rs.getString("email"));
+			System.out.println("age :"+rs.getInt("age"));
 		}
 	}
 	
